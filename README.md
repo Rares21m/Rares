@@ -32,7 +32,7 @@
 
 ---
 
-### 📈 GitHub Insights
+### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rares21m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
