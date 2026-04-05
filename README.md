@@ -11,10 +11,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Final year student at **ASE CSIE** (Economic Informatics).
-- 💻 **Focus:** Bridging the gap between code and business logic.
-- 📚 **Current Goal:** Developing an impactful **Bachelor's Thesis**.
-- 🔭 **Interests:** Backend Systems, Data Analytics, and Clean Code.
+- 🎓 **Education:** Final-year student @ **ASE CSIE** (Economic Informatics).
+- 💻 **Focus:** Figuring out how to turn complex business requirements into clean, functional code.
+- 📚 **Current Goal:** Polishing my **Bachelor's Thesis** and building data-driven applications.
+- 🔭 **Interests:** Crafting mobile & web apps that solve actual "pain points," Backend systems, and writing code that doesn't make the next dev cry.
 
 ---
 
@@ -36,13 +36,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rares21m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rares21m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rares21m&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rares21m&theme=tokyonight&hide_border=true&background=0D1117" width="94%" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rares21m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="70%" alt="languages" />
 </p>
-
 ---
 
 ### 🐍 Contribution Snake
